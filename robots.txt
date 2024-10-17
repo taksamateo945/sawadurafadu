@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://sawadurafadu.pages.dev/sitemap.xml
